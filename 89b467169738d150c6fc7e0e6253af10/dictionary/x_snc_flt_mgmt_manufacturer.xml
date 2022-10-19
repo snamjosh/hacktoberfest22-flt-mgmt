@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Manufacturer" max_length="40" name="x_snc_flt_mgmt_manufacturer" sizeclass="6" type="collection">
+    <element db_object_id="9d57e51b2f5611104f07a1fef699b664" label="Manufacturer" max_length="40" name="x_snc_flt_mgmt_manufacturer" type="collection">
         <element label="Name" max_length="100" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Parent" max_length="32" name="parent" reference="x_snc_flt_mgmt_manufacturer" type="reference"/>
         <index name="index">

@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="Vehicle Info Modal">06e244b987ed1510ff1ffcc4dabb3506</macroponent>
         <name>stylized_text_2_text</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
   * @param {params} params
@@ -25,6 +26,7 @@ function evaluateProperty({api, helpers}) {
         <sys_update_name>sys_ux_client_script_7f3980fd87ed1510ff1ffcc4dabb3504</sys_update_name>
         <sys_updated_by>jon.lind</sys_updated_by>
         <sys_updated_on>2022-08-26 16:52:15</sys_updated_on>
+        <target/>
         <type>transform</type>
     </sys_ux_client_script>
 </record_update>

@@ -1597,7 +1597,9 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
+        <description/>
         <dispatched_events>4643b35250381910cf73d45596025dbe</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -1618,6 +1620,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Home</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Collapse container to hide contents",
@@ -1659,4 +1662,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-08-22 18:03:06</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=68567f5487e15550bf924085dabb35a9"/>
 </record_update>

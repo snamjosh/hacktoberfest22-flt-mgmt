@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="Home">e426bbd087e15550bf924085dabb3598</macroponent>
         <name>Create maintenance task</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
 * @param {params} params
@@ -46,6 +47,7 @@ function handler({api, event, helpers, imports}) {
         <sys_update_name>sys_ux_client_script_6f4b48a087655550bf924085dabb357b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-08-22 20:39:25</sys_updated_on>
+        <target/>
         <type>default</type>
     </sys_ux_client_script>
 </record_update>

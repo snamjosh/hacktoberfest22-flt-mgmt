@@ -9,7 +9,6 @@
         <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Model</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -19,18 +18,16 @@
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
         <super_class/>
-        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-22 15:40:55</sys_created_on>
-        <sys_id>b2cd418887c19110b278caa5cebb3589</sys_id>
+        <sys_id>cd57e51b2f5611104f07a1fef699b644</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Flt Mgmt Model</sys_name>
         <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
-        <sys_update_name>sys_db_object_b2cd418887c19110b278caa5cebb3589</sys_update_name>
+        <sys_update_name>sys_db_object_cd57e51b2f5611104f07a1fef699b644</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-07-22 15:40:55</sys_updated_on>
         <update_access>true</update_access>

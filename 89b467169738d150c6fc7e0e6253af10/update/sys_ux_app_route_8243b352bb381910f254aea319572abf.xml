@@ -2,6 +2,7 @@
     <sys_ux_app_route action="INSERT_OR_UPDATE">
         <app_config display_value="Fleet Vehicle Management Config">0a43b352d63819100db25335345d81c0</app_config>
         <description/>
+        <extension_point/>
         <fields/>
         <icon>graduation-cap-outline</icon>
         <name>Agent assist</name>
@@ -24,4 +25,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-07-22 16:10:34</sys_updated_on>
     </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=8243b352bb381910f254aea319572abf"/>
 </record_update>

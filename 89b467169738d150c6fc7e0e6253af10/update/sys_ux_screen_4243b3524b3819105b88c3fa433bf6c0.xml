@@ -85,7 +85,7 @@
     "type" : "EVENT"
   } ]
 } ]</event_mappings>
-        <macroponent display_value="Dashboard">70fffc42c3b02010ec37e0dd9740dd88</macroponent>
+        <macroponent display_value="">70fffc42c3b02010ec37e0dd9740dd88</macroponent>
         <macroponent_config>{
   "sysId" : "",
   "label" : "",

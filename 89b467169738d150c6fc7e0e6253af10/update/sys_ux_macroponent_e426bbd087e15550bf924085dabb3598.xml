@@ -1604,7 +1604,9 @@
   "inputValues" : { },
   "readEvaluationMode" : "EXPLICIT"
 } ]</data>
+        <description/>
         <dispatched_events>25a3c4ec87e15550bf924085dabb351d,4643b35250381910cf73d45596025dbe</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -1625,6 +1627,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Home</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Collapse container to hide contents",
@@ -1707,4 +1710,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-08-22 20:36:25</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=e426bbd087e15550bf924085dabb3598"/>
 </record_update>

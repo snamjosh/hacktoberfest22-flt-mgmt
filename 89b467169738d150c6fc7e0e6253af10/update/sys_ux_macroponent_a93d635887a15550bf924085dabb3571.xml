@@ -1642,7 +1642,9 @@
   },&#13;
   "readEvaluationMode" : "EAGER"&#13;
 } ]</data>
+        <description/>
         <dispatched_events>1ea8998987a51950bf924085dabb35a7</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -1663,6 +1665,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Vehicle Info</name>
+        <output_prop_mapping/>
         <props>[ {&#13;
   "name" : "vehicleId",&#13;
   "label" : "vehicleId",&#13;
@@ -1710,4 +1713,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-08-24 15:00:06</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=a93d635887a15550bf924085dabb3571"/>
 </record_update>
